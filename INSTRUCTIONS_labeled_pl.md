@@ -31,7 +31,7 @@ W eksperymencie wykorzystana zostanie aplikacja komputerowa (obraz poniżej). Ab
 Oceniane próbki dźwięku oznaczono jako A 1, A 2, A 3, itd.  
 Aby dokonać oceny, należy kliknąć myszką na przycisk Play ocenianej próbki, a następnie odpowiednio przesunąć suwak na skali ocen.
 
-![Interfejs z etykietami](../images/label.gif)
+![Interfejs z etykietami](images/label.gif)
 
 ---
 
@@ -43,7 +43,7 @@ Aby dokonać oceny, należy kliknąć myszką na przycisk Play ocenianej próbki
 
 Do oceny jakości dźwięku wykorzystano 100‑stopniową skalę ocen zilustrowaną poniżej.  
 
-![Skala z etykietami](../images/scale_label.png)
+![Skala z etykietami](images/scale_label.png)
 
 Skala posiada zakres od 0 do 100 punktów i jest numerycznie ciągła. Reprezentuje ona następujące kategorie jakości dźwięku: **Doskonała, Dobra, Przeciętna, Słaba, Zła**.  
 Ocena 0 odpowiada dolnej granicy kategorii oznaczonej jako „Zła”, podczas gdy ocena 100 reprezentuje górną granicę kategorii oznaczonej jako „Doskonała”.  

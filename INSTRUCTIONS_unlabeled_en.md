@@ -31,7 +31,7 @@ The experiment will use a computer application (see the image below). To start p
 The audio samples to be evaluated are labelled A 1, A 2, A 3, etc.  
 To make an assessment, click the Play button of the sample you wish to evaluate, then move the slider on the rating scale accordingly.
 
-![Unlabeled interface](../images/no_label.gif)
+![Unlabeled interface](images/no_label.gif)
 
 ---
 
@@ -43,7 +43,7 @@ To make an assessment, click the Play button of the sample you wish to evaluate,
 
 A 100‑point rating scale, shown below, is used to assess sound quality.  
 
-![Unlabeled scale](../images/scale_no_label.png)
+![Unlabeled scale](images/scale_no_label.png)
 
 The scale ranges from 0 to 100 points and is numerically continuous.  
 The upper end of the scale (score 100) corresponds to the highest possible sound quality, i.e. the quality of the Reference sample.  
